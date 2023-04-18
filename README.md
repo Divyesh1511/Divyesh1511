@@ -49,6 +49,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh1511&theme=react&layout=compact" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
+
 ------
 
 [Divyesh Khuva](https://github.com/Divyesh1511)
