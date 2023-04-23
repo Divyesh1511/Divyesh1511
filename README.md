@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1>
+![](https://github.com/DivyeshKhuva/DivyeshKhuva/raw/master/animated-name.gif)
+
+<!-- <h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1> -->
 
 <!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> -->
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Hi 👋, I'm Divyesh, A passionate Full Stack developer from India <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h3>
 
 - 🔭 I’m currently working on my **Full Stack Projects**
 
