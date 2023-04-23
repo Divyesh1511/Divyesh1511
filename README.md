@@ -1,4 +1,4 @@
-![](https://github.com/DivyeshKhuva/DivyeshKhuva/raw/master/animated-name.gif)
+![](https://github.com/Divyesh1511/Divyesh1511/raw/master/animated-name.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1> -->
 
