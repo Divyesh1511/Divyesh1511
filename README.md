@@ -1,9 +1,9 @@
-![](https://github.com/Divyesh1511/Divyesh1511/raw/master/animated-name.gif)
+
 
 <!-- <h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1> -->
 
 <!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> -->
-<h3 align="center">Hi 👋, I'm Divyesh, A passionate Full Stack developer from India <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h3>
+<h1 align="center">Hi 👋, I'm Divyesh, A passionate Full Stack developer from India <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h1>
 
 - 🔭 I’m currently working on my **Full Stack Projects**
 
@@ -56,7 +56,7 @@
 
 <br/>  
 
-
+------
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
