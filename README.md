@@ -95,11 +95,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh1511&theme=react&layout=compact" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
 
 <!-- ------ -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [Divyesh Khuva](https://github.com/Divyesh1511)
 
-Last Edited on: 18/04/2023
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
