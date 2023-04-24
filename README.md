@@ -15,7 +15,9 @@
 
 - ⚡ What I like to do: **I like so much gaming, cricket and travelling...and coding of course**
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h3 align="center">Technologies</h3>
 <table align="center">
 <tr><td align="top" width="33%">
 
@@ -53,8 +55,8 @@
 </td></tr></table>
 
 <br/>  
-
-------
+<!-- ------ -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -95,7 +97,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
 
-------
+<!-- ------ -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [Divyesh Khuva](https://github.com/Divyesh1511)
 
