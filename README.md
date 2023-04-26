@@ -80,6 +80,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p> -->
+<h3 align="center">My Github Stats:</h3>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Divyesh1511&theme=react&show_icons=true&include_all_commits=true" />
