@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1> -->
 
 <!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> -->
-<h1 align="center">Hi 👋, I'm Divyesh, A passionate Full Stack developer from India <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h1>
+<h1 align="center">Hi 👋, I'm Divyesh, A passionate Full Stack developer<img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h1>
 
 - 🔭 I’m currently working on my **Full Stack Projects**
 
@@ -17,7 +17,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">Technologies:</h3>
 <table align="center">
 <tr><td align="top" width="33%">
 
