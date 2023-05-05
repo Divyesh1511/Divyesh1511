@@ -58,9 +58,10 @@
 <!-- ------ -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!-- <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <h3 align="center">My Github Stats:</h3>
+
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Divyesh1511&theme=react&show_icons=true&include_all_commits=true" />
