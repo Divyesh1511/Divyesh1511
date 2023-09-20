@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **khuvadivyesh15@gmail.com**
+- 📫 How to reach me: **divyeshkhuva1511@gmail.com**
 
 - ⚡ What I like to do: **I like so much gaming, cricket and travelling...and coding of course**
 
