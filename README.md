@@ -99,4 +99,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
 
-[![An image of @anurajshukla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyesh1511)](https://holopin.io/@divyesh1511)
+[![An image of @divyeshkhuva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyesh1511)](https://holopin.io/@divyesh1511)
